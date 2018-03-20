@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Innovate" max_length="40" name="x_110455_innovate_innovate" type="collection"/>
+</database>
